@@ -1155,3 +1155,12 @@ blockquote {
     justify-content: center;
   }
 }
+
+@media (max-width:500px) {
+  .social-share{
+    display: none;
+  }
+}
+
+.imgb{
+margin-bottom: 15px}
