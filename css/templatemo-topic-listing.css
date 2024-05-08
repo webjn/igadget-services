@@ -1164,3 +1164,9 @@ blockquote {
 
 .imgb{
 margin-bottom: 25px}
+
+@media (max-width:420px) {
+  .h-550{
+    height: 550px !important;
+  }
+}
