@@ -1158,7 +1158,7 @@ blockquote {
 
 @media (max-width:500px) {
   .social-share{
-    display: none;
+    display: none !important;
   }
 }
 
